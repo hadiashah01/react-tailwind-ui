@@ -19,6 +19,10 @@ Click the preview to visit the live page 👇
 
 [![React Tailwind UI Preview](./public/preview.png)](https://github.com/hadiashah01/react-tailwind-ui/)
 
+### Horizontal Scroll
+
+![Horizontal card scrolling](./public/horizontal-scroll.gif)
+
 ## Features
 
 - Customer segmentation card interface
