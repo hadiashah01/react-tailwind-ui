@@ -17,7 +17,7 @@ A responsive customer segmentation interface built with React and Tailwind CSS. 
 
 Click the preview to visit the live page 👇
 
-[![React Tailwind UI Preview](./public/preview.png)](https://github.com/hadiashah01/react-tailwind-ui/)
+[![React Tailwind UI Preview](./public/preview.png)](https://hadiashah01.github.io/react-tailwind-ui/)
 
 ### Horizontal Scroll
 
